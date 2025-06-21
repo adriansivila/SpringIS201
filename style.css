@@ -1,0 +1,27 @@
+  
+        body{
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 15px;
+            color: grey;
+            background-color: bisque;  /* or any color you like */
+
+        }
+    h2 {
+    font-size: 24px;
+    color: darkslateblue;
+    }
+
+    .section {
+    padding: 15px;
+    border: 1px solid lightgray;
+    background-color: #f0f8ff;
+    max-width: 800px;       /* limits the width */
+    margin: 20px auto;      /* centers the div horizontally and adds space between sections */
+    border-radius: 8px; 
+    }
+
+    a {
+    text-decoration: none;
+    color: teal;
+    }
+
